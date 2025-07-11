@@ -1,4 +1,4 @@
-# CircusClient PHP Class
+# circus-client-php
 
 ไลบรารี PHP สำหรับอ่านและเขียนค่าผ่าน API ของ [Circus of Things](https://circusofthings.com)
 
